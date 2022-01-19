@@ -1,0 +1,5 @@
+com/lavanya/gudimella/dto/Student.class
+com/lavanya/gudimella/dto/Laptop.class
+com/lavanya/gudimella/configuration/HibernateConfiguration.class
+com/lavanya/gudimella/dao/StudentDao.class
+com/lavanya/gudimella/client/Client.class
